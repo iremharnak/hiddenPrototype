@@ -32,17 +32,17 @@ nav {
     padding: 0.5rem;
     display: flex;
     justify-content: space-between;
-    align-items: flex-end;
+    align-items: baseline;
 
 }
 .hamburgerMenu {
-    flex-basis: 50%;
+    flex-basis: 40%;
     text-align: left;
     margin-top: 0.5rem;
     
 }
 .logo {
-    width: 50%;
+    width: auto;
 }
 .search-box {
     flex-basis: 40%; 
