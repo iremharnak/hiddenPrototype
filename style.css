@@ -22,14 +22,9 @@ body {
 ul {
     list-style: none;
 }
-a: link {
-    color: none;
-}
+
 /* Header & Navbar */
-header {
-    
-    
-}
+
 nav {
     /* padding: 0.5rem; */
     display: flex;
